@@ -1,0 +1,19 @@
+{
+  "name": "x-split",
+  "version": "0.0.1",
+  "description": "Make perfect word split",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "parcel index.ts",
+    "build": "parcel build index.ts"
+  },
+  "keywords": [
+    "x-split"
+  ],
+  "author": "SARI LY",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
